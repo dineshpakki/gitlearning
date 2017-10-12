@@ -1,3 +1,4 @@
+Editing this section #1
 This is the 3rd file for Git
 
 Cheers.
