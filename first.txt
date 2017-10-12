@@ -1,5 +1,0 @@
-Hello,
-
-This is my first GIT file. More to learn and more to come soon.
-
-Cheers.
